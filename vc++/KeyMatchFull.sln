@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyMatchFull", "KeyMatchFull.vcxproj", "{70C25E8E-3069-470E-BEAD-5134BF98ACC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C25E8E-3069-470E-BEAD-5134BF98ACC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{70C25E8E-3069-470E-BEAD-5134BF98ACC0}.Debug|x86.Build.0 = Debug|Win32
+		{70C25E8E-3069-470E-BEAD-5134BF98ACC0}.Release|x86.ActiveCfg = Release|Win32
+		{70C25E8E-3069-470E-BEAD-5134BF98ACC0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3615FB-E985-4B9D-A7EC-8CDB3D9AFC06}
+	EndGlobalSection
+EndGlobal
